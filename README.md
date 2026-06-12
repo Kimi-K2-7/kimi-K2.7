@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="../../releases/latest">
-    <img width="1200" alt="Kimi K2.7 Swarm Workstation — The Industrial-Grade AI Hive that Beats Claude Opus 4.8 on Tool Use." src="assets/claude-fable-5.png" />
+    <img width="1200" alt="Kimi K2.7 Swarm Workstation — The Industrial-Grade AI Hive that Beats Claude Opus 4.8 on Tool Use." src="assets/HKmxoVmagAAJKj8.jpg" />
   </a>
 </div>
 
